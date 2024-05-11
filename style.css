@@ -1,3 +1,16 @@
-.text-brand{
-    color: #a80000;
+* {
+    font: outfit;
+}
+
+.text-brand {
+    color: #a80000 !important;
+}
+
+.btn-sign-up {
+    background-color: black !important;
+}
+
+.btn-login {
+    background-color: rgb(226, 226, 226) !important;
+    color: black!important;
 }
