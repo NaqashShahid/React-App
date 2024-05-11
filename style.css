@@ -6,10 +6,10 @@
     color: #a80000 !important;
 }
 
-.btn-sign-up {
-    background-color: black !important;
-}
-
 .btn-light {
     background-color: rgb(226, 226, 226) !important;
+}
+
+.bg-info{
+    background-color: #08395D !important;
 }
