@@ -2,6 +2,10 @@
     font: outfit;
 }
 
+:root{
+    --1_rem: 3px;
+}
+
 .navbar-brand {
     color: #a80000 !important;
 }
@@ -24,6 +28,4 @@
 
 .sec-3{
     background-image: url(images/sec2BG.45011b27.png);
-    background-repeat: no-repeat;
-    background-position: center;
 }
